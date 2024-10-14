@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://genuine-travesseiro-5302ac.netlify.app/sitemap.xml
